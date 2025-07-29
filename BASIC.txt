@@ -1,3 +1,10 @@
+code ma change kariye tyare use thay
+
 git add .
 git commit -m "random"
 git push origin main
+
+assignment- desktop file ni andar
+koi pic add karvanu, then open vs code
+img ne push karvani
+explore ma jovanu k thai avi gai ne
