@@ -1,10 +1,28 @@
 code ma change kariye tyare use thay
 
-git add .
+git add .  ('.' = universal ,je bi file necessary hoy ae add kare)
 git commit -m "random"
 git push origin main
 
-assignment- desktop file ni andar
-koi pic add karvanu, then open vs code
-img ne push karvani
-explore ma jovanu k thai avi gai ne
+
+
+~git fetch -a [-a=all / fetch(khenchvu)]
+~git checkout Ishwa-63 [change branch name/jump to new branch]
+
+~shift delete kareli vastu ne pachi lavi shakay
+ {git add .
+  git commit -m"fourth commit"
+  git push origin Ishwa-63
+  git checkout main}
+
+~if I'm the boss and employeee ne aeno code submit lkarvano hoy tyare=
+  
+
+
+MERGE REQUEST
+~ base = je branch ma code mokalvano hoy
+~compare =  jema thi mokalvano hoy like (ishwa mathi main ma to ishwa ae compare thase)
+
+
+
+CREATE NEW BRANCH IN MAIN BRANCH, 10 line code ,push code, transfer new branch code into ISHWA-63
